@@ -1,0 +1,64 @@
+body{
+  background-color: black;
+}
+
+.roomOcuppied {
+	background: green;
+    float: left;
+    height: 60px;
+    margin: 12px;
+    width: 70px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.room{
+    float: left;
+    height: 60px;
+    margin: 12px;
+    width: 70px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+	background-color: white;
+	color: black;
+}
+
+.roomReserved{
+      float: left;
+    height: 60px;
+    margin: 12px;
+    width: 70px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+  background-color: red;
+  color: white;
+}
+section{
+    margin:-2px;
+    padding:20px;
+}
+
+
+.foo {
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.green {
+  background: #13b4ff;
+}
+
+.red {
+  background: #ab3fdd;
+}
+
+.white {
+  background: #ae163e;
+}
